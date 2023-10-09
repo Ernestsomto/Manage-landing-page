@@ -4,4 +4,4 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Glitch]()
+- Solution URL: [github page](https://ernestsomto.github.io/Manage-landing-page/)
